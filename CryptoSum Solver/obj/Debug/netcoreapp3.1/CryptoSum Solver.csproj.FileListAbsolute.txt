@@ -1,0 +1,35 @@
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.exe
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.deps.json
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.runtimeconfig.json
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.runtimeconfig.dev.json
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.dll
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.pdb
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.Views.dll
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\bin\Debug\netcoreapp3.1\CryptoSum Solver.Views.pdb
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.csprojAssemblyReference.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\staticwebassets\CryptoSum Solver.StaticWebAssets.Manifest.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\staticwebassets\CryptoSum Solver.StaticWebAssets.xml
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.RazorAssemblyInfo.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.RazorAssemblyInfo.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.AssemblyInfoInputs.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.AssemblyInfo.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.TagHelpers.input.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.TagHelpers.output.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.RazorCoreGenerate.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.RazorTargetAssemblyInfo.cache
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.RazorTargetAssemblyInfo.cs
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.Views.pdb
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.dll
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.pdb
+C:\Users\jacob.lee\source\repos\CryptoSum Solver\CryptoSum Solver\obj\Debug\netcoreapp3.1\CryptoSum Solver.csproj.CopyComplete
